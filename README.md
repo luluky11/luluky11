@@ -13,4 +13,4 @@ discovery.
 
 - [**constrained-mol-grpo**](https://github.com/luluky11/constrained-mol-grpo) — fine-tuning a small LLM with GRPO and RDKit-computed verifiable rewards to generate molecules under property/structural constraints, plus a controlled study of how chain-of-thought style affects the task.
 
-📫 lukaiyuan@u.nus.edu
+📫 lukaiyuan@u.nus.edu  ·  [Google Scholar](https://scholar.google.com/citations?user=anlpEg4AAAAJ)
